@@ -4,8 +4,11 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        orj = copy.deepcopy(matrix)
-        end = len(matrix)
-        for i in range(0, end):
-            for j in range(0, end):
-                matrix[j][end - 1 - i] = orj[i][j]
+        n = len(matrix)
+        for i in range(n): #transpose
+            for j in range(i, n):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+        for i in range(n):
+            for j in range(n // 2):
+                matrix[i][j], matrix[i][-j-1] = matrix[i][-j-1], matrix[i][j]
+                
