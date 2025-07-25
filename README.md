@@ -19,6 +19,7 @@ algorithm study
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/changhee16/LeetCode/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/changhee16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -40,4 +41,8 @@ algorithm study
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/changhee16/LeetCode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/changhee16/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
