@@ -10,6 +10,7 @@ algorithm study
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/changhee16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/changhee16/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/changhee16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -28,6 +29,7 @@ algorithm study
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/changhee16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/changhee16/LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -45,4 +47,8 @@ algorithm study
 |  |
 | ------- |
 | [0046-permutations](https://github.com/changhee16/LeetCode/tree/master/0046-permutations) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/changhee16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
