@@ -1,26 +1,31 @@
 class Solution {
 public:
-    string expand_mid(int left, int right, string s) {
-        while (left >= 0 && right < s.size() && (s[left] == s[right])) {
-            left--;
-            right++;
-        }
-        //cout << "left: " << left << " right: " << right<<  "\n";
-        return s.substr(left + 1, right - left - 1);
-    }
     string longestPalindrome(string s) {
-        string max_str = "";
-        for (int i = 0; i < s.size(); i++)
+        int s_len = s.size();
+        int max_len = 1;
+        int start_idx = 0; 
+        vector<vector<bool>> dp(s_len, vector<bool>(s_len, false));
+        //길이가 1일 때랑 2일때랑 3일때를 나눠서 접근하며, 3일때 DP의 기존 정보 써먹기가 이용됨
+        //길이가 1일때는 항상 palindrome
+        //DP는 bool형태로 True/False만 알려주고, 길이는 인덱스가 알려줌 
+        for (int i = 0; i < s_len; i++)
+            dp[i][i] = true;
+        for(int i = s_len - 1; i >= 0; i--)
         {
-            string odd_substr = expand_mid(i, i, s);
-            //cout << "odd_substr: " << odd_substr<<"\n";
-            string even_substr = expand_mid(i, i+1, s);
-            //cout << "even_substr: " << even_substr<<"\n";
-            if (odd_substr.size() > max_str.size())
-                max_str = odd_substr;
-            if (even_substr.size() > max_str.size())
-                max_str = even_substr;
+            for (int j = i + 1; j < s_len; j++)
+            {
+                int length = j - i + 1;
+                if (length == 2 && s[i] == s[j])
+                    dp[i][j] = true;
+                if (length > 2 && ((i+1) <= (j-1)) && s[i] == s[j] && dp[i+1][j-1])
+                    dp[i][j] = true;
+                if (length > max_len && dp[i][j])
+                {
+                    max_len = length;
+                    start_idx = i;
+                }
+            }
         }
-        return max_str;
+        return s.substr(start_idx, max_len);
     }
 };
