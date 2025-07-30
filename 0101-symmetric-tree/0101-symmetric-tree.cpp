@@ -11,15 +11,25 @@
  */
 class Solution {
 public:
-    bool isMirror(TreeNode* n1, TreeNode* n2)
-    {
-        if (n1 == nullptr && n2 == nullptr)
-            return true;
-        if (n1 == nullptr || n2 == nullptr || n1->val != n2->val)
-            return false;
-        return isMirror(n1->left, n2->right) && isMirror(n1->right, n2->left);
-    }
     bool isSymmetric(TreeNode* root) {
-        return isMirror(root->left, root->right);
+        queue <TreeNode*> q; 
+        q.push(root->left);
+        q.push(root->right);
+        while (!q.empty())
+        {
+            TreeNode* n1 = q.front();
+            q.pop();
+            TreeNode* n2 = q.front();
+            q.pop();
+            if (!n1 && !n2)
+                continue ;
+            else if (!n1 || !n2 || n1->val != n2->val)
+                return false;
+            q.push(n1->left);
+            q.push(n2->right);
+            q.push(n1->right);
+            q.push(n2->left);
+        }
+        return true;
     }
 };
