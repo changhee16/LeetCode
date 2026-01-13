@@ -27,6 +27,7 @@ algorithm study
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/changhee16/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/changhee16/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/changhee16/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/changhee16/LeetCode/tree/master/0148-sort-list) |
