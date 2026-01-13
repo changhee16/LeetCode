@@ -30,6 +30,6 @@ public:
                 curr = curr->next;
             }
         }
-        return head;
+        return dummy.next;
     }
 };
