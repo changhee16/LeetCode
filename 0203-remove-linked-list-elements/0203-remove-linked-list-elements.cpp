@@ -11,18 +11,15 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        ListNode dummy(0, head); 
-        //dummy 노드 추가 : head 앞 노드를 만들면서 head가 삭제되는 분기를 만들지 않아도 처리가 가능하도록 함 
-        if (!head) return head;
-
+        ListNode dummy(0, head);
         ListNode *prev = &dummy;
         ListNode *curr = head;
-        
-        while (curr){
+        while (curr)
+        {
             if (curr->val == val)
             {
                 prev->next = curr->next;
-                delete curr;
+                delete(curr);
                 curr = prev->next;
             }
             else
@@ -30,7 +27,6 @@ public:
                 prev = curr;
                 curr = curr->next;
             }
-
         }
         return dummy.next;
     }
