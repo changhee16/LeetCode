@@ -13,7 +13,6 @@ public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         ListNode dummy;
         ListNode* merge_list = &dummy;
-        ListNode* head = &dummy;
         while (list1 && list2)
         {
             if (list1->val < list2->val)
@@ -30,6 +29,6 @@ public:
         }
         if (list1) merge_list->next = list1;
         else    merge_list->next = list2;
-        return head->next;
+        return dummy.next;
     }
 };
