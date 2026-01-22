@@ -11,6 +11,19 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
+        int res = 0;
+        while (head)
+        {
+            res = res * 2 + head->val;
+            head = head->next;
+        }
+        return res;
+    }
+};
+/*
+class Solution {
+public:
+    int getDecimalValue(ListNode* head) {
         ListNode *prev = nullptr;
         ListNode *curr = head;
         int res = 0;
@@ -31,3 +44,4 @@ public:
         return res;
     }
 };
+*/
