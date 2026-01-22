@@ -7,6 +7,7 @@ algorithm study
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/changhee16/LeetCode/tree/master/0070-climbing-stairs) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/changhee16/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ algorithm study
 | [0203-remove-linked-list-elements](https://github.com/changhee16/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/changhee16/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/changhee16/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/changhee16/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
