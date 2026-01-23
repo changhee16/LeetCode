@@ -78,6 +78,7 @@ algorithm study
 | [0112-path-sum](https://github.com/changhee16/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/changhee16/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/changhee16/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ algorithm study
 | [0112-path-sum](https://github.com/changhee16/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/changhee16/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/changhee16/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +108,7 @@ algorithm study
 | [0112-path-sum](https://github.com/changhee16/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/changhee16/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/changhee16/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,10 +120,15 @@ algorithm study
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/changhee16/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/changhee16/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/changhee16/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/changhee16/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/changhee16/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
