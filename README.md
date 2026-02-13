@@ -122,6 +122,7 @@ algorithm study
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/changhee16/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/changhee16/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/changhee16/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Recursion
@@ -138,4 +139,12 @@ algorithm study
 |  |
 | ------- |
 | [2851-string-transformation](https://github.com/changhee16/LeetCode/tree/master/2851-string-transformation) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/changhee16/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/changhee16/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
