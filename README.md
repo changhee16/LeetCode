@@ -14,6 +14,7 @@ algorithm study
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/changhee16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/changhee16/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/changhee16/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/changhee16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2851-string-transformation](https://github.com/changhee16/LeetCode/tree/master/2851-string-transformation) |
 ## Memoization
@@ -69,6 +70,7 @@ algorithm study
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/changhee16/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/changhee16/LeetCode/tree/master/0115-distinct-subsequences) |
 | [2851-string-transformation](https://github.com/changhee16/LeetCode/tree/master/2851-string-transformation) |
 ## Tree
 |  |
