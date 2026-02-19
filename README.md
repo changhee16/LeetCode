@@ -7,6 +7,7 @@ algorithm study
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/changhee16/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/changhee16/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/changhee16/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2851-string-transformation](https://github.com/changhee16/LeetCode/tree/master/2851-string-transformation) |
 ## Dynamic Programming
@@ -14,6 +15,7 @@ algorithm study
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/changhee16/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/changhee16/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/changhee16/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/changhee16/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/changhee16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/changhee16/LeetCode/tree/master/2222-number-of-ways-to-select-buildings) |
@@ -79,6 +81,7 @@ algorithm study
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/changhee16/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/changhee16/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/changhee16/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/changhee16/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -110,6 +113,7 @@ algorithm study
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/changhee16/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/changhee16/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/changhee16/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/changhee16/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -142,6 +146,7 @@ algorithm study
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/changhee16/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0897-increasing-order-search-tree](https://github.com/changhee16/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## String Matching
 |  |
